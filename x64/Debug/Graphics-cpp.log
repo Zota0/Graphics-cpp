@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+N:\Projects\VisualStudio\Programming\github.com-Zota0\cpp\Graphics-cpp\libraries\include\glad\glad.h(650,1): message : see previous definition of 'APIENTRY'
+N:\Projects\VisualStudio\Programming\github.com-Zota0\cpp\Graphics-cpp\Main.cpp(31,41): error C2065: 'WINhWnd': undeclared identifier
